@@ -1,5 +1,14 @@
+body{
+    text-align: center;
+}
+
 h1{
     background-color: red;
     color: black;
     font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    background-color: aqua;
+    color: orange;
 }
